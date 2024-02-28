@@ -1,0 +1,36 @@
+﻿Title,Description,Complexity Rating (1 to 5 Stars),IT Approved 
+"Meeting summarization​","Automate process and improve note taking results with meeting transcript into NetAIChat​","⭐ ⭐ ⭐","True"
+"KB document generation","Review notes from cases and generate a meaningful KB article or Use the code development process, and analysis of the code, to generate KB articles on newly released capabilities.  ​","⭐ ⭐ ⭐","True"
+"ServiceNow Prompt writing assistant","Help users and support personal write prompts that extract the appropriate information from ServiceNow​IT","⭐ ⭐ ⭐ ⭐","True"
+"Device log analysis","Device or cloud log analysis to identify potential hot spots that should be addressed prior to failure.​","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Operations analysis​","Review logs, tickets and CMDB data to answer analysis questions such as “highest error rate in storage devices over past three months”.​","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Opensource model comparison","Is there a better opensource LLM or small model that improves results of IT ticket and log analysis","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Scaled Customer Feedback Chat","We have tons of customer feedback data stored in various places such as transcripts, PowerPoints, Qualtrics survey data exports (Excel/JSON files), and many other data sources. We want to be able to analyze and uncover insights from all these various sources at scale. Being able to generate insights and recommendations from all these sources at the company level, role level, and even the individual level would be ideal.","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Proposal Generation","Co-Pilot for PS Proposal and Doc Drafting","⭐ ⭐ ⭐","True"
+"Power BI Migration Assistant","Enable Analysts to convert Tableau formulas to Power BI formulas that’s augmented with NetApp Tables/Columns​","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Opensource model comparison Finance","Analyze different open-source models for best results, performance, accuracy, etc. Action would be to download the opensource models on prem for people to use.","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Vector DB comparison","Analyze different vector DBs to identify the best for general use cases.  This is performance and accuracy.  DBs include Weviate, pinecone, etc (research others)","⭐ ⭐ ⭐ ⭐ ⭐","False"
+"System Data integration","Develop process to connect to data sources using APIs and incorporate into analysis.","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Improve data quality","Use AI to identify data quality issues in the data pipeline.","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Conversational Analytics","Ingest an excel file and answer analytical questions","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Data source agents","Use agents to determine which data source is best to answer a particular request and collect that information from the different sources.","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Major Incident Communications","Populate the Major Incident Management Communications template with relevant information.  a.	English is not the 1st language for many of the resources
+b.	The information provided is sometimes too technical or vague for user/leadership consumption
+c.	Attached is a template that is currently being used to capture/format information for comms.
+d.	Question: Can AI assist in populating a template based on desire output?","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Prompt library","Create a prompt library that is accessible from NetAIChat where users can upload prompts that have worked for them in the past.  Searchable library based on the type of solution required (Sales, vs finance, etc).","⭐ ⭐ ⭐","True"
+"New user experience","Incorporate the GPT technology into other user experiences rather than just chat.","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Security vulnerability analysis","Automatically update security and penetration testing based on the latest reports of vulnerabilities in technology ​","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Improved NetAIChat UI","Adjust the UI for better accessibility by users and allow for inclusion of new features without overloading the experience.","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Sharing data set across multiple users","Ability to upload docs and share with multiple users in NetAIChat.  Rather than just uploading for one user but
+the process should be secured enough where you need to make sure only intended user get the access.","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Meeting Mentor","Collect information on a customer from external sources to prepare a sales person for an upcoming meeting.  This could be a specific person or a company.","⭐ ⭐ ⭐ ⭐","True"
+"Incident Case Quality","Our ServiceNow Incident tickets contain key information that is used for assessing reoccurrences, trends, and escalations.  Unfortunately, many of the key attributes are not properly populated, resulting in poor/untrustworthy information to make decisions.  
+•	This data is also another source for future AI content, but only if the information is populated and done correctly.
+•	Currently we have an Intern randomly grading incidents across 8 attributes to gauge case quality.
+•	I would like to use this intern to assist in teaching AI to grade on her behalf, as she is only funded to the end of December.
+a.	Today our Intern receives a list of tickets to review/grade across 8 different attributes (Attachment “Case Quality” - slide 2 / Incident Mgmt. Key Measurements)
+i.	Areas missed are flagged and commented on what was missed/incorrect
+b.	The output of her grading automatically feeds into a Power-Bi Dashboard for consumption (slide 3)
+•	Question: Can AI assist in reviewing/grading ticket content to flag missed information and comment on what was not correctly provided?","⭐ ⭐ ⭐ ⭐ ⭐","True"
+"Synthetic Data Generation","Create a system which will take input as a template or sample Business requirement and create a group of synthetic data as output. The process and data needs to be dynamic in nature and should be based on the Technical or Business requirement. You can keep a option to expand the data relevancy by providing some sample test cases","⭐ ⭐ ⭐ ⭐ ⭐","True"
